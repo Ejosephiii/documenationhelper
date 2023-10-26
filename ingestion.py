@@ -8,6 +8,9 @@ def ingest_docs()->None:
 
 
     raw_documents = loader.load()
+    
+
+    
 
 if __name__ == "__main__":
     ingest_docs()
